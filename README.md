@@ -46,4 +46,4 @@ flowchart LR
     K --> L
     L --> M[Reporting and Notifications]
     M --> N[Development Team]
-    M --> O[Security Team]c
+    M --> O[Security Team]
